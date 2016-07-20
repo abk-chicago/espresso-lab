@@ -32,7 +32,7 @@ Use the following user stories for each test. "As a user":
 
 **Bonus:**
 
-* As a user, I can see a list of my previous transactions.
+* As a user, I am taken to the right activity when I click a button.
 * As a user, I can see correct values for each listed transaction.
 * Add any additional tests you feel would be good to have.
 
